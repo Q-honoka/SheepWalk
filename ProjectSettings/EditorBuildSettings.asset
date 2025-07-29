@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sheep Walk/Scenes/TitleScene.unity
+    guid: bd776627b379afe4eafa81d645d61810
+  - enabled: 1
+    path: Assets/Sheep Walk/Scenes/Stage1Scene.unity
+    guid: dc6d2ce43a8065444bfab71df903a3aa
+  - enabled: 1
+    path: Assets/Sheep Walk/Scenes/Stage2Scene.unity
+    guid: 5cea4002a9c88c74486efa217a71242b
+  - enabled: 1
+    path: Assets/Sheep Walk/Scenes/Stage3Scene.unity
+    guid: bda7316b19e65fa4d86b2ec1577b6f11
+  - enabled: 1
+    path: Assets/Sheep Walk/Scenes/ResultScene.unity
+    guid: 36d8b068b6c86734d9f6cd8d657a5ad4
+  m_configObjects: {}
