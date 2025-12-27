@@ -1,5 +1,7 @@
 # [Sheep Walk] 
 
+<img width="80%" height="80%" alt="sheepwalk_ingame" src="https://github.com/user-attachments/assets/36f624cb-e903-4f90-b559-540e53986355" />
+
 3Dの地形を回転させて、羊をゴールまで導くパズルゲームです。
 2年次のゲームゼミにて、プログラム全般を1人で担当し制作しました。
 
