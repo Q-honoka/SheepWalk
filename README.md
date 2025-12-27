@@ -7,7 +7,7 @@
 
 ### 📄 Document (Technical Specification)
 企画意図や設計、技術な詳細をまとめたPDF資料を公開しています。
-**[こちらのPDFをご覧ください](./作品紹介_SheepWalk.pdf)**
+**[こちらのPDFをご覧ください](./Introduction_SheepWalk.pdf)**
 
 ---
 
