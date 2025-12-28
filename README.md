@@ -7,24 +7,25 @@
 
 ---
 
-### 📄 Document (Technical Specification)
+### 📄 プログラム紹介資料
 企画意図や設計、技術な詳細をまとめたPDF資料を公開しています。
 **[こちらのPDFをご覧ください](Introduction_SheepWalk.pdf)**
 
 ---
 
-## 🎮 Game Overview
-- **Genre**: 3D Rotation Puzzle
-- **Platform**: PC (Windows)
-- **Development Term**: [制作期間： 約1ヶ月]
+## 🎮 ゲーム概要
+- **ジャンル**: 3D回転パズル
+- **プラットフォーム**: PC (Windows)
+- **制作期間**: 約1ヶ月
+- **言語**: C#
+- **使用ツール**: Unity [バージョン： 2022.1.1f1], VisualStudio2022
 
-## 🛠 Tech Stack
-- **Language**: C#
-- **Engine**: Unity [バージョン： 2022.1.1f1]
+## 🌟 実装のポイント
+- **3Dの地形の回転**: クォータ二オンを使用したスムーズな回転を実装しました。
+- **3Dでのカメラ操作**: ステージが見やすくなるようにカメラの操作を工夫しました。
 
-## 🌟 Key Features (実装のポイント)
-- **3D Rotation Logic**: クォータ二オンを使用したスムーズな回転を実装しました。
-- **3D Camera View**: ステージが見やすくなるようにカメラの操作を工夫しました。
-
-## 💡 Technical Challenges (こだわった点)
+## 💡 こだわった点 
 - **滑らかな回転処理**: 地形が回転していることを分かりやすくするためにクォータ二オンを使用して滑らかに回転させました。
+
+## 📦 ビルドファイルの実行方法
+[Releases]ページからZIPファイルをダウンロードし、解凍後の.exeを実行してください。
